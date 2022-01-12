@@ -1,0 +1,5 @@
+Sinais aritiméticos
+Função is
+Raiz, porcentagem e etc
+importes: math, random (shuffle, choice, sin, cos, radians...
+Manipulação de string, análise, transformação, div e junção

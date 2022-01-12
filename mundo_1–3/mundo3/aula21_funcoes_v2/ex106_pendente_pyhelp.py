@@ -1,0 +1,1 @@
+print('\033[7;31m' + help(str('time')))
