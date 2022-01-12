@@ -1,0 +1,19 @@
+Haverá classes de personagens
+
+Haverá diferentes poderes para usar
+Cada poder está ligado a uma classe específica
+Terá uma ult. Dedicada a cada classe
+
+O sisitema de batalha conta um pouco com sorte
+Será 3 possibilidades de ataque (direita, esquerda e meio)
+
+Terá um ataque normal e ataques com poderes
+Ataques com poderes só poderão ser usados caso o personagem não se movimente
+
+# Caso não ataque poderá ter a oportunidade de esquivar e/ou tomar menos dano
+
+
+PROTÓTIPO 1
+    * Fazer as classes de personagem
+    * Fazer sistema de batalha apenas com ataque simples e mudança de posição
+    * Fazer o bot atacar aleatoriamente

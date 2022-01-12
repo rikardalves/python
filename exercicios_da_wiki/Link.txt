@@ -1,0 +1,6 @@
+https://wiki.python.org.br/ListaDeExercicios
+Estrutura sequencial - https://wiki.python.org.br/EstruturaSequencial
+Estrutura de decisao - https://wiki.python.org.br/EstruturaDeDecisao
+Estruturas de repeticao  - https://wiki.python.org.br/EstruturasDeRepeticao
+Listas - https://wiki.python.org.br/ExerciciosListas
+Funcoes - https://wiki.python.org.br/ExerciciosFuncoes
